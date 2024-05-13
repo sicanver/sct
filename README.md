@@ -1,2 +1,2 @@
 # sct
-Inventario a pie
+Inventario de carreteras
