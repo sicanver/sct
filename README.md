@@ -1,0 +1,2 @@
+# sct
+Inventario a pie
